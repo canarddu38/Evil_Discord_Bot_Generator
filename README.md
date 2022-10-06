@@ -1,10 +1,12 @@
 # Evil_Discord_Bot_Generator
 
-## 📗 Summary
-[The bot genesis](#headers)  
-...snip...    
 
-<a name="headers"/>
+- [📗 Summary](#h1)
+  * [🔥 Step1 - The bot genesis](##---step1---the-bot-genesis)
+  * [🔥 Step2 - The bot configuration](##---step2---the-bot-configuration)
+  * [🔥 Step3 - The bot generation](##---step3---the-bot-generation)
+
+# h1
 ## 🔥 Step1 - The bot genesis
 Go to <a href="https://discord.com/developers/applications" >discord developers portal</a> and create a new discord bot.
 
