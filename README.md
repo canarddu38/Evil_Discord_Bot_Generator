@@ -2,7 +2,7 @@
 
 
 - [📗 Summary](#h1)
-  * [🔥 Step1 - The bot genesis](# 🔥 Step1 - The bot genesis)
+  * [🔥 Step1 - The bot genesis](#🔥Step1-Thebotgenesis)
   * [🔥 Step2 - The bot configuration](#step2-thebotconfiguration)
   * [🔥 Step3 - The bot generation](#step3-thebotgeneration)
 
